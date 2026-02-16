@@ -4,5 +4,11 @@
     "name": "Ishendra Rai",
     "department": "Customer Service",
     "basicSalary": 12000
+  },
+  {
+    "id": 1771236004831,
+    "name": "Tanmay",
+    "department": "IT",
+    "basicSalary": 10000
   }
 ]
