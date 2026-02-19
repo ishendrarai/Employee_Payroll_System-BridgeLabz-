@@ -30,5 +30,13 @@
     "department": "CS",
     "salary": 1000000,
     "startDate": "2200-08-02"
+  },
+  {
+    "id": 1771499958746,
+    "name": "Ishendra Rai",
+    "gender": "Male",
+    "department": "Hello",
+    "salary": 12000,
+    "startDate": "2005-08-02"
   }
 ]
